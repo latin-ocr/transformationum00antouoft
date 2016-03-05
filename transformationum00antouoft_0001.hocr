@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./transformationum00antouoft_0001.png"; bbox 0 0 1867 3214; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 65 406 1277">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 65 406 1277">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 65 406 1277"><span class='ocrx_word' id='word_1_1' title='bbox 0 65 406 1277; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 26 2930 43 3170">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 25 2930 45 3172">
+     <span class='ocr_line' id='line_1_2' title="bbox 26 2930 43 3170; baseline 242 -724"><span class='ocrx_word' id='word_1_2' title='bbox 26 2930 43 3008; x_wconf 49' lang='lat' dir='ltr'><strong>uuaz.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 29 3016 35 3112; x_wconf 65' lang='grc' dir='ltr'><strong>,ιιὶιι</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 29 3122 38 3170; x_wconf 64' lang='grc' dir='ltr'><strong>ι(</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 6 2959 17 3170">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 6 2959 17 3170">
+     <span class='ocr_line' id='line_1_3' title="bbox 6 2959 17 3170"><span class='ocrx_word' id='word_1_5' title='bbox 6 2959 10 2967; x_wconf 81' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 7 2982 10 2990; x_wconf 84' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 7 2999 11 3012; x_wconf 83' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_8' title='bbox 6 3020 17 3170; x_wconf 62' lang='grc' dir='ltr'>ιιιιιιΙΙΙιιὶῐ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
